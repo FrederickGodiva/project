@@ -1,0 +1,8 @@
+module ecommerce-backend
+
+go 1.18
+
+require (
+    gorm.io/driver/postgres v1.2.4 // This version may vary
+    gorm.io/gorm v1.23.8 // This version may vary
+)
